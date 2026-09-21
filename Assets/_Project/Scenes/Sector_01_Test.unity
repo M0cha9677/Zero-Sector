@@ -1239,7 +1239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea8c5d9b50065be478ddebb118822486, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
-  moveSpeed: 6
+  moveSpeed: 5
   dashSpeed: 20
   dashDuration: 0.15
   dashCooldown: 1
@@ -2346,7 +2346,7 @@ MonoBehaviour:
   - {fileID: 1690315390}
   - {fileID: 1690315390}
   enemyParent: {fileID: 1890457480}
-  activated: 0
+  activated: 1
 --- !u!1 &1983888673
 GameObject:
   m_ObjectHideFlags: 0

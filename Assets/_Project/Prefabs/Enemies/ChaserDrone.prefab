@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f2bbd78dd461e641bee62a607b99815, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChaserEnemy
-  moveSpeed: 4
+  moveSpeed: 10
   maxHealth: 1
   contactDamage: 1
   damageCooldown: 0.5
